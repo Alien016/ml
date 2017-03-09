@@ -3,3 +3,48 @@
     3  cd /f/ml
     4  pwd
     5  history >>history.txt
+    1  history
+    2  pwd
+    3  cd /f/ml
+    4  pwd
+    5  history >>history.txt
+    6  ls
+    7  cat history.txt
+    8  git init
+    9  ls
+   10  ls -l
+   11  pwd
+   12  ls
+   13  ls
+   14  git add history.txt
+   15  git add history.txt
+   16  git commit history.txt
+   17  git user.email "582413929@qq.com"
+   18  git config user.email "582413929@qq.com"
+   19  git config user.name "lilu"
+   20  git commit -m  "save history"
+   21  git remote -v
+   22  git remote show
+   23  git remote add origin https://github.com/Alien016/ml.git
+   24  git remote -v
+   25  git push origin master
+   26  git fetch
+   27  ls
+   28  git add notes
+   29  git commit -a "add notes file directory"
+   30  git commit -m "add notes file directory"
+   31  git push origin master
+   32  git pull
+   33  git remote show origin
+   34  git push
+   35  git branch -a
+   36  git fetch origin
+   37  ls
+   38  git pull origin
+   39  git pull origin master
+   40  git push origin master
+   41  git push --help
+   42  git push origin master
+   43  git pull --rebase origin master
+   44  git push origin master
+   45  history >>history.txt
