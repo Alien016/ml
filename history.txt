@@ -1,0 +1,5 @@
+    1  history
+    2  pwd
+    3  cd /f/ml
+    4  pwd
+    5  history >>history.txt
